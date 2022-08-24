@@ -1,3 +1,7 @@
+#Author  : Gesa Rizky Nugraha                         
+#Email   : gesarizkynugraha@gmail.com                                                                   
+#Website : karenabelajar.blogspotcom   
+
 # Menampilkan Angka Acak antara 0 sampai 20
 
 # Mengimpor Modul Random
